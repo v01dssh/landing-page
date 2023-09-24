@@ -1,0 +1,24 @@
+body {
+    background-color: #1f2937;
+    max-width: 1000px;
+    margin: 0 auto;
+    color: aliceblue;
+}
+
+nav {
+    display: flex;
+    height: 50px;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 40px;
+    margin-top: 10px;
+}
+
+nav #header-logo {
+    margin-right: auto;
+}
+
+nav a {
+    text-decoration: none;
+    color: #f9faf8;
+}
